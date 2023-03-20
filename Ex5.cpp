@@ -10,7 +10,6 @@ int main() {
 
     string String;
     string StringInvertida;
-    int aux = 0;
     int TamanhoString = 0;
 
     cout << "Digite a string que deseja inverter: ";
