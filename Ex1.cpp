@@ -12,10 +12,14 @@ int main() {
     int SOMA = 0;
     int K = 0;
 
-    SOMA = SOMA + 3;
+    while (K<INDICE)
+    {
+        K++;
+        SOMA = SOMA + K;
+    }
 
-    cout << "O resultado de Soma eh: " << SOMA;
-
+    cout << "O resultado de Soma é: " << SOMA;
+    
 
 
 }
