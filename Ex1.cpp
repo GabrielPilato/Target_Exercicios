@@ -18,7 +18,7 @@ int main() {
         SOMA = SOMA + K;
     }
 
-    cout << "O resultado de Soma é: " << SOMA;
+    cout << "O resultado de Soma eh: " << SOMA;
     
 
 
